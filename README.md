@@ -33,7 +33,6 @@ Create a GitHub Source button:
 4. Modify the parameters below to create a uniform button:
     - *badgecontent*: Open on GitHub-black
     - *logo*: github
-    - *link*: copy markdown code
 5. Select Markdown from the options of code.
 6. Modify the Markdown code to make it a clickable link using the following schema:
     - [![Static Badge](Shields.io URL)](GitHub repo URL)
