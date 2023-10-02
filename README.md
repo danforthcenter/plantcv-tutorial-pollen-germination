@@ -33,10 +33,11 @@ Create a GitHub Source button:
 4. Modify the parameters below to create a uniform button:
     - *badgecontent*: Open on GitHub-black
     - *logo*: github
-    - *link*: Paste the copied GitHub repo URL
-   
-<img alt="Static Badge" src="https://img.shields.io/badge/Open%20on%20GitHub-black?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fdanforthcenter%2Fplantcv-tutorial-template">
-
+5. Select Markdown from the options of code.
+6. Modify the Markdown code to make it a clickable link using the following schema:
+    - [![Static Badge](Shields.io URL)](GitHub repo URL)
+  
+[![Static Badge](https://img.shields.io/badge/Open%20on%20GitHub-black?logo=github)](https://github.com/danforthcenter/plantcv-tutorial-template)
 
 ## Tutorial tags/keywords
 
