@@ -1,6 +1,6 @@
 # Tutorial Title
 
-
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-pollen-germination/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-pollen-germination/actions/workflows/ci-tests.yml)
 
 Description of tutorial.
 
